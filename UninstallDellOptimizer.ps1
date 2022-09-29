@@ -1,4 +1,4 @@
-#stop dell optimizer services
+﻿#stop dell optimizer services
 Get-Service -Name "DellOptimizer" | Stop-Service
 
 
